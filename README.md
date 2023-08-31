@@ -8,6 +8,6 @@ Outline: <br />
 IVP - https://colab.research.google.com/drive/1v9MSmzS96iaXIwxinBr8uvbcXEKAQoor?usp=sharing
 
 
-the links above are all part of some copy-paste assignment and don't have much relevance to "AlexNet final".
+the links above are all part of some copy-paste assignment and don't have much relevance to "final AlexNet".
 
-In the alexNet final we use the alexnet ai model to see if it can detect the difference between wireless and wired earbuds.
+In the "final AlexNet" we use the alexnet ai model to see if it can detect the difference between wireless and wired earbuds.
